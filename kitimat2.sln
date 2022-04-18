@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitimat2", "kitimat2\kitimat2.csproj", "{98A9D5A5-A76D-45C3-ABA8-452D989A9885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A9D5A5-A76D-45C3-ABA8-452D989A9885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A9D5A5-A76D-45C3-ABA8-452D989A9885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A9D5A5-A76D-45C3-ABA8-452D989A9885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A9D5A5-A76D-45C3-ABA8-452D989A9885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2FC193-8326-471B-8B88-E86E6A0F3065}
+	EndGlobalSection
+EndGlobal
